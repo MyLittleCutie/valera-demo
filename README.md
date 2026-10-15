@@ -2,13 +2,15 @@
 
 Windows x64: готовка, оборона двора и ремонт Нивы.
 
+Обновление 15.10.2026: исправления теста и скалки, сохранение незавершённого замеса, два запасных яйца и кукурузная мука, заметные донаты, крепления инструментов, шаги и звуки падения предметов. Обновление распаковывайте в отдельную папку; прежние сохранения демо сохраняются.
+
 ## Скачать
 
-[Скачать демо ZIP — 1,99 ГБ](https://github.com/MyLittleCutie/valera-demo/releases/download/demo-3-missions-20261014/VALERA_DEMO_3_missions.zip)
+[Скачать демо ZIP — 1,86 ГБ](https://github.com/MyLittleCutie/valera-demo/releases/download/demo-3-missions-20261015/VALERA_DEMO_3_missions.zip)
 
 [Короткая анкета плейтеста DOCX](https://github.com/MyLittleCutie/valera-demo/releases/download/demo-3-missions-20261014/VALERA_playtest_feedback.docx)
 
-[Страница релиза](https://github.com/MyLittleCutie/valera-demo/releases/tag/demo-3-missions-20261014)
+[Страница релиза](https://github.com/MyLittleCutie/valera-demo/releases/tag/demo-3-missions-20261015)
 
 Распакуйте архив целиком и запустите `VALERA_DEMO.exe`. Файл `VALERA_DEMO.pck` должен оставаться рядом. Godot устанавливать не нужно. Файлы Source code на странице релиза не являются сборкой игры — скачивайте архив по ссылке выше.
 
